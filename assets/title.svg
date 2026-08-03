@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 132" role="img" aria-labelledby="title description">
+  <title id="title">Hi, I'm Chen Feng</title>
+  <desc id="description">LLM Security, AI Agents, Secure AI Infrastructure, and Robotics</desc>
+  <style>
+    .name {
+      fill: #1f2328;
+      font: 700 38px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      letter-spacing: .2px;
+    }
+    .focus {
+      fill: #0969da;
+      font: 600 21px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      letter-spacing: 1.2px;
+      opacity: 0;
+      animation: cycle 16s ease-in-out infinite;
+    }
+    .line-2 { animation-delay: 4s; }
+    .line-3 { animation-delay: 8s; }
+    .line-4 { animation-delay: 12s; }
+    @keyframes cycle {
+      0%, 20% { opacity: 1; transform: translateY(0); }
+      25%, 100% { opacity: 0; transform: translateY(6px); }
+    }
+    @media (prefers-color-scheme: dark) {
+      .name { fill: #f0f6fc; }
+      .focus { fill: #58a6ff; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .focus { animation: none; opacity: 0; }
+      .line-1 { opacity: 1; }
+    }
+  </style>
+  <text class="name" x="500" y="51" text-anchor="middle">Hi, I'm Chen Feng 👋</text>
+  <g text-anchor="middle">
+    <text class="focus line-1" x="500" y="101">LLM SECURITY</text>
+    <text class="focus line-2" x="500" y="101">AI AGENTS</text>
+    <text class="focus line-3" x="500" y="101">SECURE AI INFRASTRUCTURE</text>
+    <text class="focus line-4" x="500" y="101">ROBOTICS</text>
+  </g>
+</svg>
