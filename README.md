@@ -2,8 +2,6 @@
 
 <img src="./assets/title.svg" width="820" alt="Hi, I'm Chen Feng — LLM Security, AI Agents, Secure AI Infrastructure, and Robotics">
 
-**构建默认安全、可部署、可复现的 AI 系统。**<br>Building secure-by-default, deployable, and reproducible AI systems.
-
 [![LLM Security](https://img.shields.io/badge/LLM_Security-0A66C2?style=flat-square&logo=protonvpn&logoColor=white)](https://github.com/Du-professor/llm-guard-agent) [![AI Agents](https://img.shields.io/badge/AI_Agents-6F42C1?style=flat-square&logo=openai&logoColor=white)](https://github.com/Du-professor/AI-Skills-Collection) [![Robotics](https://img.shields.io/badge/Robotics-00A8E8?style=flat-square&logo=ros&logoColor=white)](https://github.com/Du-professor/ORB_SLAM3-OCCUPANCY) [![Open Source](https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Du-professor?tab=repositories)
 
 <img src="./assets/hero.webp" width="100%" alt="An original anime-style AI security engineer with a holographic shield and robotic-vision interface">
